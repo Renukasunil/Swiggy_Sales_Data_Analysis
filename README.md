@@ -98,6 +98,8 @@ Slicers and Filters
 ----------------------------------------
 Power BI DashBoard
 
+<img src = "Dashboard.png" />
+
 
 
 -------------------------------
